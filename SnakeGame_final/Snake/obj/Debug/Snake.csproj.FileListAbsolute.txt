@@ -1,0 +1,10 @@
+C:\Users\이동기\source\repos\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\이동기\source\repos\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\이동기\source\repos\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\이동기\source\repos\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\이동기\source\repos\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\이동기\source\repos\Snake\bin\Debug\Snake.exe.config
+C:\Users\이동기\source\repos\Snake\bin\Debug\Snake.exe
+C:\Users\이동기\source\repos\Snake\bin\Debug\Snake.pdb
+C:\Users\이동기\source\repos\Snake\obj\Debug\Snake.exe
+C:\Users\이동기\source\repos\Snake\obj\Debug\Snake.pdb
